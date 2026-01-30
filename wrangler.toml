@@ -1,4 +1,4 @@
-name = "qifei"
+name = "acf90535"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
@@ -6,3 +6,4 @@ keep_vars = true
 [[kv_namespaces]]
 binding = "KV"            # KV绑定名默认不可修改
 id = "2793778740054a679ef4b8374e9ad581"    # KV数据库id
+
